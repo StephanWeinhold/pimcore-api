@@ -1,4 +1,3 @@
-```php
 <?php
 class ApiController extends Website\Controller\Action
 {
@@ -193,4 +192,3 @@ class ApiController extends Website\Controller\Action
     }
 
 }
-```
