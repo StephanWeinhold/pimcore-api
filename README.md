@@ -1,5 +1,5 @@
 # pimcore-api
-### API-functionality for pimcore
+### API-functionality for pimcore to return object data
 
 #### pimcore
 
@@ -26,7 +26,7 @@ to your pimcore that looks like this one:
 
 #### Calling the API
 
-The most basic way to call it is:
+The API is based on REST. So you can receive data via a simple URL-call. The most basic way to call it is:
 
 <pre>https://YOUR_URL/OBJECT_TYPE/OBJECT_ID/?apiKey=YOUR_API_KEY</pre>
 
