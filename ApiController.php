@@ -84,6 +84,8 @@ class WapiController extends Action
         if ($return === FALSE) {
             throw new Zend_Http_Header_Exception_InvalidArgumentException('Wrong API-key.', 403);
         }
+        
+        return $return;
     }
 
     /*
