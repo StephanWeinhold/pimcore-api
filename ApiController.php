@@ -1,5 +1,8 @@
 <?php
-class ApiController extends Website\Controller\Action
+use Website\Controller\Action;
+use Pimcore\Model\Object;
+
+class WapiController extends Action
 {
 
     /**
