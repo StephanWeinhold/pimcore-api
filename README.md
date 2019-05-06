@@ -1,8 +1,8 @@
 ⛔️ DEPRECATED 
 
-<former description>
+# This is no longer supported - pimcore has multiple great APIs now.
 
-# pimcore-api
+## pimcore-api
 ### API-functionality for pimcore to return object data
 
 #### pimcore
