@@ -1,3 +1,7 @@
+⛔️ DEPRECATED 
+
+<former description>
+
 # pimcore-api
 ### API-functionality for pimcore to return object data
 
